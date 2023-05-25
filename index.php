@@ -67,33 +67,7 @@ include("config.php");
                                 Your dream house</h1>
                             <form method="post" action="propertygrid.php">
                                 <div class="row">
-                                    <div class="col-md-6 col-lg-2">
-                                        <div class="form-group">
-                                            <select class="form-control" name="type">
-                                                <option value="">Select Type</option>
-												<option value="appartment">Appartment</option>
-												<option value="flat">Flat</option>
-												<option value="bunglow">Bunglow</option>
-												<option value="house">House</option>
-												<option value="villa">Villa</option>
-												<option value="office">Office</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-lg-2">
-                                        <div class="form-group">
-                                            <select class="form-control" name="stype">
-                                                <option value="">Select Status</option>
-												<option value="rent">Rent</option>
-												<option value="sale">Sale</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-8 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control" name="city" placeholder="Enter City or Enter State" required>
-                                        </div>
-                                    </div>
+                                    
                                     <div class="col-md-4 col-lg-2">
                                         <div class="form-group">
                                             <button type="submit" name="filter" class="btn btn-primary w-100">Search Property</button>
