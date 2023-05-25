@@ -24,6 +24,13 @@
                     </div>
                 </div>
             </div>
+
+            <style>
+        .nav-logo {
+            width: 120px;
+            height: 60px;
+        }
+    </style>
             <div class="main-nav secondary-nav hover-primary-nav py-2">
                 <div class="container">
                     <div class="row">
