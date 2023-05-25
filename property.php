@@ -39,7 +39,7 @@ include("config.php");
 
 <!--	Title
 	=========================================================-->
-<title>Homex - Real Estate Template</title>
+<title>Ardes.Studio</title>
 </head>
 <body>
 

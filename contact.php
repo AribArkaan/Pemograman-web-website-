@@ -57,7 +57,7 @@ if(isset($_POST['send']))
 
 <!--	Title
 	=========================================================-->
-<title>Homex - Real Estate Template</title>
+<title>Ardes.Studio</title>
 </head>
 <body>
 

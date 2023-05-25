@@ -121,7 +121,7 @@ if(isset($_POST['add']))
 
 <!--	Title
 	=========================================================-->
-<title>ARDES.STUDIO</title>
+<title>Ardes.Studio</title>
 </head>
 <body>
 

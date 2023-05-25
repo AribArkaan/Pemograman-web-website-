@@ -51,7 +51,7 @@ if(isset($_REQUEST['calc']))
 
 <!--	Title
 	=========================================================-->
-<title>Homex - Real Estate Template</title>
+<title>Ardes.Studio</title>
 </head>
 <body>
 
