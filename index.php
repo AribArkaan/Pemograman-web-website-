@@ -253,7 +253,7 @@ include("config.php");
                             <div class="bg-primary text-white rounded-circle position-absolute z-index-9">2</div>
                             <div class="left-arrow"><i class="flaticon-search flat-medium icon-primary" aria-hidden="true"></i></div>
                             <h5 class="text-secondary mt-5 mb-4">Files Review</h5>
-                            <p>review langkah projek file yang sudah dibuat untuk menentukan apakah user masih ingin melanjutkan  review langkah projek file yang sudah dibuat untuk menentukan apakah user masih ingin melanjutkan</p>
+                            <p>review langkah projek file yang sudah dibuat untuk menentukan apakah user masih ingin melanjutkan</p>
                         </div>
                     </div>
                     <div class="col-md-4">
