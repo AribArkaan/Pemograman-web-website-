@@ -86,7 +86,7 @@ if(isset($_REQUEST['insert']))
 										<input class="form-control" type="date" placeholder="Date of Birth" name="dob">
 									</div>
 									<div class="form-group">
-										<input class="form-control" type="text" placeholder="Phone" name="phone" maxlength="10">
+										<input class="form-control" type="text" placeholder="Phone" name="phone" maxlength="30">
 									</div>
 									<div class="form-group mb-0">
 										<input class="btn btn-primary btn-block" type="submit" name="insert" Value="Register">
