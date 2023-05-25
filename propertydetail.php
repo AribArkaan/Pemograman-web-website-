@@ -72,7 +72,7 @@ include("config.php");
                     <div class="col-md-6">
                         <nav aria-label="breadcrumb" class="float-left float-md-right">
                             <ol class="breadcrumb bg-transparent m-0 p-0">
-                                <li class="breadcrumb-item text-white"><a href="#">Home</a></li>
+                                <li class="breadcrumb-item text-white"><a href="index.php">Home</a></li>
                                 <li class="breadcrumb-item active">Property Detail</li>
                             </ol>
                         </nav>

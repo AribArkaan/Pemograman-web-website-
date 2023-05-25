@@ -36,9 +36,6 @@
                                         <li class="nav-item dropdown"> <a class="nav-link" href="index.php" role="button" aria-haspopup="true" aria-expanded="false">Home</a></li>
 										
 										<li class="nav-item"> <a class="nav-link" href="about.php">About</a> </li>
-										
-										<li class="nav-item"> <a class="nav-link" href="agent.php">Agent</a> </li>
-										
 										<li class="nav-item"> <a class="nav-link" href="property.php">Properties</a> </li>
                                         <li class="nav-item"> <a class="nav-link" href="contact.php">Contact</a> </li>
 										

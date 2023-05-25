@@ -121,7 +121,7 @@ if(isset($_POST['add']))
 
 <!--	Title
 	=========================================================-->
-<title>Homex - Real Estate Template</title>
+<title>ARDES.STUDIO</title>
 </head>
 <body>
 

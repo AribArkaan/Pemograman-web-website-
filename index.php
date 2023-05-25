@@ -116,38 +116,39 @@ include("config.php");
                     <div class="col-lg-12">
                         <h2 class="text-secondary double-down-line text-center mb-5">What We Do</h2></div>
                 </div>
+                
                 <div class="text-box-one">
                     <div class="row">
                         <div class="col-lg-3 col-md-6">
                             <div class="p-4 text-center hover-bg-white hover-shadow rounded mb-4 transation-3s"> 
 								<i class="flaticon-rent text-primary flat-medium" aria-hidden="true"></i>
-                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">Selling Service</a></h5>
-                                <p>Lacinia tempor tortor nibh. Et mattis cubilia suspendisse cras justo potenti.</p>
+                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">Bangun dari 0</a></h5>
+                                <p>Buat desain bangunan impian anda dari 0 dengan layanan dari kami ya itu build from 0 agar bangunan yang di inginkan sesuai</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="p-4 text-center hover-bg-white hover-shadow rounded mb-4 transation-3s"> 
 								<i class="flaticon-for-rent text-primary flat-medium" aria-hidden="true"></i>
-                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">Rental Service</a></h5>
-                                <p>Lacinia tempor tortor nibh. Et mattis cubilia suspendisse cras justo potenti.</p>
+                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">Renovasi bangunan</a></h5>
+                                <p>Renovasi desain bangunan yang sudah ada dengan menggunakan jasa desain bangunan dengan layanan Renovation.</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="p-4 text-center hover-bg-white hover-shadow rounded mb-4 transation-3s"> 
 								<i class="flaticon-list text-primary flat-medium" aria-hidden="true"></i>
-                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">Property Listing</a></h5>
-                                <p>Lacinia tempor tortor nibh. Et mattis cubilia suspendisse cras justo potenti.</p>
+                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">Konsultasi</a></h5>
+                                <p>Konsultasikan desain bangunan yang anda inginkan dengan ahli nya.</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="p-4 text-center hover-bg-white hover-shadow rounded mb-4 transation-3s"> 
-								<i class="flaticon-diagram text-primary flat-medium" aria-hidden="true"></i>
-                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">Legal Investment</a></h5>
-                                <p>Lacinia tempor tortor nibh. Et mattis cubilia suspendisse cras justo potenti.</p>
+								<i class="flaticon-list text-primary flat-medium" aria-hidden="true"></i>
+                                <h5 class="text-secondary hover-text-primary py-3 m-0"><a href="#">price</a></h5>
+                                <p>kami seusikan harga dengan kondisi uang anda.</p>
                             </div>
-                        </div>
                     </div>
                 </div>
+                
             </div>
         </div>
 		<!-----  Our Services  ---->
@@ -261,7 +262,7 @@ include("config.php");
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2 class="text-secondary double-down-line text-center mb-5">How It Work</h2>
+                        <h2 class="text-secondary double-down-line text-center mb-5">Langkah kerja</h2>
                         </div>
                 </div>
                 <div class="row">
@@ -270,7 +271,7 @@ include("config.php");
                             <div class="bg-primary text-white rounded-circle position-absolute z-index-9">1</div>
                             <div class="left-arrow"><i class="flaticon-investor flat-medium icon-primary" aria-hidden="true"></i></div>
                             <h5 class="text-secondary mt-5 mb-4">Discussion</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <p>Mendiskusikan apa yang di inginkan user, bagaimana langkah selanjutnya untuk melakukan kerjasama</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -278,7 +279,7 @@ include("config.php");
                             <div class="bg-primary text-white rounded-circle position-absolute z-index-9">2</div>
                             <div class="left-arrow"><i class="flaticon-search flat-medium icon-primary" aria-hidden="true"></i></div>
                             <h5 class="text-secondary mt-5 mb-4">Files Review</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <p>review langkah projek file yang sudah dibuat untuk menentukan apakah user masih ingin melanjutkan</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -286,7 +287,7 @@ include("config.php");
                             <div class="bg-primary text-white rounded-circle position-absolute z-index-9">3</div>
                             <div><i class="flaticon-handshake flat-medium icon-primary" aria-hidden="true"></i></div>
                             <h5 class="text-secondary mt-5 mb-4">Acquire</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <p>melakukan langkah terakhir yaitu kontrak kerja dengan user, jika projek telah di approve maka file penuhnya akan diberikan dan melakukan kejasama untuk projek yang lain.</p>
                         </div>
                     </div>
                 </div>
@@ -301,48 +302,6 @@ include("config.php");
             <div class="container">
                 <div class="fact-counter">
                     <div class="row">
-                        <div class="col-md-3">
-                            <div class="count wow text-center  mb-sm-50" data-wow-duration="300ms"> <i class="flaticon-house flat-large text-white" aria-hidden="true"></i>
-								<?php
-										$query=mysqli_query($con,"SELECT count(pid) FROM property");
-											while($row=mysqli_fetch_array($query))
-												{
-										?>
-                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="<?php 
-												$total = $row[0];
-												echo $total;?>">0</div>
-								<?php } ?>
-                                <div class="text-white h5">Property Available</div>
-                            </div>
-                        </div>
-						<div class="col-md-3">
-                            <div class="count wow text-center  mb-sm-50" data-wow-duration="300ms"> <i class="flaticon-house flat-large text-white" aria-hidden="true"></i>
-								<?php
-										$query=mysqli_query($con,"SELECT count(pid) FROM property where stype='sale'");
-											while($row=mysqli_fetch_array($query))
-												{
-										?>
-                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="<?php 
-												$total = $row[0];
-												echo $total;?>">0</div>
-								<?php } ?>
-                                <div class="text-white h5">Sale Property Available</div>
-                            </div>
-                        </div>
-						<div class="col-md-3">
-                            <div class="count wow text-center  mb-sm-50" data-wow-duration="300ms"> <i class="flaticon-house flat-large text-white" aria-hidden="true"></i>
-								<?php
-										$query=mysqli_query($con,"SELECT count(pid) FROM property where stype='rent'");
-											while($row=mysqli_fetch_array($query))
-												{
-										?>
-                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="<?php 
-												$total = $row[0];
-												echo $total;?>">0</div>
-								<?php } ?>
-                                <div class="text-white h5">Rent Property Available</div>
-                            </div>
-                        </div>
                         <div class="col-md-3">
                             <div class="count wow text-center  mb-sm-50" data-wow-duration="300ms"> <i class="flaticon-man flat-large text-white" aria-hidden="true"></i>
                                 <?php
