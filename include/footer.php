@@ -8,7 +8,7 @@
                                     <div class="footer-widget mb-4">
                                         <div class="footer-logo mb-4"> <a href="#"><img class="logo-bottom" src="images/logo/logo-white.png" alt="image"></a> </div>
                                         <p class="pb-20 text-white">Property tidak hanya sekedar aset, tetapi juga wujud dari impian, tujuan, dan perencanaan jangka panjang.</p>
-										<p class="pb-20 text-white">Risus commodo congue augue phasellus morbi hymenaeos ante tincidunt eu orci dictum bibendum lacus platea primis mi lacinia felis gravida natoque</p>
+										<p class="pb-20 text-white">Mempunyai property adalah sebuah kebanggaan, melambangkan kemampuan kita untuk mencapai tujuan kehidupan.</p>
                                         </div>
                                 </div>
                                 <div class="col-md-12 col-lg-8">
