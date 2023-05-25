@@ -183,7 +183,7 @@ include("config.php");
                                             <div class="overlay-black overflow-hidden position-relative"> <img src="admin/property/<?php echo $row['18'];?>" alt="pimage">
                                                 <div class="featured bg-primary text-white">New</div>
                                                 <div class="sale bg-secondary text-white text-capitalize">For <?php echo $row['5'];?></div>
-                                                <div class="price text-primary"><b>Rp.<?php echo $row['13'];?> </b><span class="text-white"><?php echo $row['12'];?> Sqft</span></div>
+                                                <div class="price text-primary"><b>Rp.<?php echo $row['13'];?> </b><span class="text-white"><?php echo $row['12'];?> M<sup>2</sup></span></div>
                                             </div>
                                             <div class="featured-thumb-data shadow-one">
                                                 <div class="p-3">
@@ -191,7 +191,7 @@ include("config.php");
                                                     <span class="location text-capitalize"><i class="fas fa-map-marker-alt text-primary"></i> <?php echo $row['14'];?></span> </div>
                                                 <div class="bg-gray quantity px-4 pt-4">
                                                     <ul>
-                                                        <li><span><?php echo $row['12'];?></span> Sqft</li>
+                                                        <li><span><?php echo $row['12'];?></span> M<sup>2</sup></li>
                                                         <li><span><?php echo $row['6'];?></span> Beds</li>
                                                         <li><span><?php echo $row['7'];?></span> Baths</li>
                                                         <li><span><?php echo $row['9'];?></span> Kitchen</li>
