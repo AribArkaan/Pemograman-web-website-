@@ -206,7 +206,7 @@ include("config.php");
 									<i class="flaticon-reward flat-medium float-left d-table mr-4 text-primary" aria-hidden="true"></i>
 									<div class="pl-2">
 										<h5 class="mb-3">Experience Quality</h5>
-										<p>Ad non vivamus Elementum eget fringilla venenatis quisque, maecenas adipiscing aliquet justo. Libero. Gravida. Sapien, dolor nostra sem. Rutrum conubia inceptos egestas dolor class.</p>
+										<p>Dari awal hingga akhir, setiap detilnya begitu memikat dan memuaskan. Desainnya yang elegan dan fungsional, bersama dengan fitur-fitur canggih yang disediakan, memberikan pengalaman pengguna yang tak tertandingi. Tidak hanya itu, performanya juga luar biasa, memberikan respons yang cepat dan lancar dalam setiap tugas yang saya lakukan. Dalam setiap interaksi, saya bisa merasakan betapa seriusnya perusahaan ini dalam menyajikan kualitas terbaik bagi pengguna. Secara keseluruhan, pengalaman menggunakan produk ini benar-benar mengesankan dan membuat saya merasa yakin bahwa saya telah membuat pilihan yang tepat.</p>
 									</div>
                                 </li>
                                 <li class="mb-4 text-white d-flex"> 
