@@ -36,7 +36,7 @@ include("config.php");
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
 <!-- Title -->
-<title>Homex - Real Estate Template</title>
+<title>Ardes.Studio</title>
 </head>
 <body>
 
