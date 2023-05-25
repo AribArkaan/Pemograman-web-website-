@@ -175,9 +175,6 @@ if(isset($_POST['send']))
         </div>
         <!--	Contact Inforamtion -->
         
-        <!--	Map -->
-        <iframe src="https://www.google.co.id/maps/place/Jl.+Phh.+Mustofa+No.365,+Pasirlayung,+Kec.+Cibeunying+Kidul,+Kota+Bandung,+Jawa+Barat+40125/@-6.901934,107.651536,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e793cadfa02d:0x91cc7116e023479d!8m2!3d-6.901934!4d107.6541109?entry=ttu" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-		<!--	Map -->
         
         <!--	Footer   start-->
 		<?php include("include/footer.php");?>

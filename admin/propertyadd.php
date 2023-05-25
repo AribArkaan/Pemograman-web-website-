@@ -317,7 +317,7 @@ if(isset($_POST['add']))
 										<div class="form-group row">
 											<label class="col-lg-2 col-form-label">Feature</label>
 											<div class="col-lg-9">
-											<p class="alert alert-danger">* Important Please Do Not Remove Below Content Only Change <b>Yes</b> Or <b>No</b> or Details and Do Not Add More Details</p>
+											<!-- <p class="alert alert-danger">* Important Please Do Not Remove Below Content Only Change <b>Yes</b> Or <b>No</b> or Details and Do Not Add More Details</p> -->
 											
 											<textarea class="tinymce form-control" name="feature" rows="10" cols="30">
 												<!---feature area start--->
