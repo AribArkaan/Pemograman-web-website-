@@ -213,14 +213,14 @@ include("config.php");
 									<i class="flaticon-real-estate flat-medium float-left d-table mr-4 text-primary" aria-hidden="true"></i>
 									<div class="pl-2">
 										<h5 class="mb-3">Experience Quality</h5>
-										<p>Ad non vivamus Elementum eget fringilla venenatis quisque, maecenas adipiscing aliquet justo. Libero. Gravida. Sapien, dolor nostra sem. Rutrum conubia inceptos egestas dolor class.</p>
+										<p>Pengalaman menggunakan produk ini luar biasa! Desain elegan, fitur canggih, dan performa luar biasa memberikan kepuasan tak terkalahkan. Setiap interaksi memancarkan dedikasi perusahaan untuk memberikan kualitas terbaik. Saya yakin telah membuat pilihan yang tepat!</p>
 									</div>
                                 </li>
                                 <li class="mb-4 text-white d-flex"> 
 									<i class="flaticon-seller flat-medium float-left d-table mr-4 text-primary" aria-hidden="true"></i>
 									<div class="pl-2">
 										<h5 class="mb-3">Experience Quality</h5>
-										<p>Ad non vivamus Elementum eget fringilla venenatis quisque, maecenas adipiscing aliquet justo. Libero. Gravida. Sapien, dolor nostra sem. Rutrum conubia inceptos egestas dolor class.</p>
+										<p>Pengalaman tinggal di sebuah bangunan berkualitas adalah harmoni antara fasilitas modern, kenyamanan, dan gaya hidup yang terinspirasi.</p>
 									</div>
                                 </li>
                             </ul>
